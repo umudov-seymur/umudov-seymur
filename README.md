@@ -1,25 +1,13 @@
-### Hi there, I am a Full Stack Developer 👋
-```
-                             \\\\\\\
-                            \\\\\\\\\\\\
-                          \\\\\\\\\\\\\\\
-  -----------,-|           |C>   // )\\\\|
-           ,','|          /    || ,'/////|
----------,','  |         (,    ||   /////
-         ||    |          \\  ||||//''''|
-         ||    |           |||||||     _|
-         ||    |______      `````\____/ \
-         ||    |     ,|         _/_____/ \
-         ||  ,'    ,' |        /          |
-         ||,'    ,'   |       |         \  |
-_________|/    ,'     |      /           | |
-_____________,'      ,',_____|      |    | |
-             |     ,','      |      |    | |
-             |   ,','    ____|_____/    /  |
-             | ,','  __/ |             /   |
-_____________|','   ///_/-------------/   |
-              |===========,'
-```
+## Hi there, I am a Full Stack Developer 👋
+
+### 🔭 I'm currently working at home 
+### My favorite language is PHP (Laravel) ❤️
+#### 🌈 My major skills are as follows
+
+- ✅Backend: PHP(OOP, MVC), Laravel, Codeigniter
+- ✅Frontend: Bootstrap, Tailwind, Vue, jQuery
+- ✅Database: MySQL, MongoDB, PostgreSQL, Google FireBase
+
 <!--
 **umudov-seymur/umudov-seymur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
