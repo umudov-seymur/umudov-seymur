@@ -1,8 +1,7 @@
 ## Hi there, I am a Full Stack Developer 👋
 
-### 🔭 I'm currently working at home 
-### My favorite language is PHP (Laravel) ❤️
-#### 🌈 My major skills are as follows
+### ❤️ My favorite language is PHP (Laravel)
+#### 🌈 My major skills are as follows:
 
 - ✅Backend: PHP(OOP, MVC), Laravel, Codeigniter
 - ✅Frontend: Bootstrap, Tailwind, Vue, jQuery
