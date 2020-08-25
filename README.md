@@ -3,6 +3,7 @@
 ### ❤️ My favorite language is PHP (Laravel)
 #### 🌈 My major skills are as follows:
 
+- ✅Python script, Web Scraping, Telegram Script, Automation
 - ✅Backend: PHP(OOP, MVC), Laravel, Codeigniter
 - ✅Frontend: Bootstrap, Tailwind, Vue, jQuery
 - ✅Database: MySQL, MongoDB, PostgreSQL, Google FireBase
