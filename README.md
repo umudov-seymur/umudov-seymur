@@ -7,7 +7,7 @@
 - ✅Backend: PHP(OOP, MVC), Laravel, Codeigniter
 - ✅Frontend: Bootstrap, Tailwind, Vue, jQuery
 - ✅Database: MySQL, MongoDB, PostgreSQL, Google FireBase
-
+- ✅Other Skills: C, C++, C# ( middle level )
 <!--
 **umudov-seymur/umudov-seymur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
