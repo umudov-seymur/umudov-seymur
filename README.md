@@ -1,7 +1,7 @@
 ## Hi there, I am a Full Stack Developer 👋
 
 ### My favorite language is PHP (Laravel) and Python ❤️
-#### 🌈 My major skills are as follows:
+## 🌈 My major skills are as follows:
 
 - ✅Python script, Web Scraping, Telegram Script, Automation
 - ✅Backend: PHP(OOP, MVC), Laravel, Codeigniter
