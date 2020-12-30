@@ -8,6 +8,9 @@
 - ✅Frontend: Bootstrap, Tailwind, Vue, jQuery
 - ✅Database: MySQL, MongoDB, PostgreSQL, Google FireBase
 - ✅Other Skills: C, C++, C# ( middle level )
+## 📈 Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umudov-seymur&langs_count=10&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=umudov-seymur&langs_count=10&layout=compact)
+
 <!--
 **umudov-seymur/umudov-seymur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
