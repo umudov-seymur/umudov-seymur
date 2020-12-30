@@ -5,7 +5,7 @@
 
 - ✅Python script, Web Scraping, Telegram Script, Automation
 - ✅Backend: PHP(OOP, MVC), Laravel, Codeigniter
-- ✅Frontend: Bootstrap, Tailwind, Vue, jQuery
+- ✅Frontend: Bootstrap, Tailwind, Bulma, JavaScript (ES6+), Vue JS, jQuery
 - ✅Database: MySQL, MongoDB, PostgreSQL, Google FireBase
 - ✅Other Skills: C, C++, C# ( middle level )
 ## 📈 Stats
