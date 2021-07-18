@@ -9,8 +9,8 @@
 - ✅Database: MySQL, MongoDB, PostgreSQL, Google FireBase
 - ✅Other Skills: C, C++, C# ( middle level )
 
-## 📈 Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=useymur&langs_count=10&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=useymur&langs_count=10&layout=compact)
+<!-- ## 📈 Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=useymur&langs_count=10&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=useymur&langs_count=10&layout=compact) -->
 
 ## Technology Stack:
 
