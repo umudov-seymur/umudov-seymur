@@ -19,18 +19,18 @@
 
 ## Technology Stack:
 
-<img align="left" alt="Python" height="38px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
-<img align="left" alt="PHP" height="38px" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" />
-<img align="left" alt="MySQL" height="38px" src="https://seeklogo.com/images/M/MySQL-logo-F6FF285A58-seeklogo.com.png" />
-<img align="left" alt="JavaScript" height="38px" src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" />
-<img align="left" alt="Laravel" height="40px" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" />
-<img align="left" alt="Codeigniter" height="40px" src="https://seeklogo.com/images/C/codeigniter-logo-BDF3D666E7-seeklogo.com.png" />
+<img align="left" alt="Python" height="35px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
+<img align="left" alt="PHP" height="35px" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" />
+<img align="left" alt="MySQL" height="35px" src="https://seeklogo.com/images/M/MySQL-logo-F6FF285A58-seeklogo.com.png" />
+<img align="left" alt="JavaScript" height="35px" src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" />
+<img align="left" alt="Laravel" height="35px" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" />
+<img align="left" alt="Codeigniter" height="35px" src="https://seeklogo.com/images/C/codeigniter-logo-BDF3D666E7-seeklogo.com.png" />
 <img align="left" alt="Vue JS" height="35px" src="https://seeklogo.com/images/V/vuejs-logo-17D586B587-seeklogo.com.png" />
 <img align="left" alt="Tailwind" height="35px" src="https://seeklogo.com/images/T/tailwind-css-logo-5AD4175897-seeklogo.com.png" />
 <img align="left" alt="Bootstrap" height="35px" src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png" />
-<img align="left" alt="Git" height="38px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" />
-<img align="left" alt="Linux" height="38px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-<img align="left" alt="Digital Ocean" height="40px" src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-ar21.svg" />
+<img align="left" alt="Git" height="35px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" />
+<img align="left" alt="Linux" height="35px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
+<img align="left" alt="Digital Ocean" height="35px" src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-ar21.svg" />
 
 
 <!--
