@@ -14,8 +14,8 @@
 
 ## 📈 Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=useymur&theme=react&show_icons=true&include_all_commits=true" alt="useymur" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=useymur&theme=react&layout=compact" alt="useymur" width="410" /></p>
+<p><img align="left" height="150" src="https://github-readme-stats.vercel.app/api?username=useymur&theme=react&show_icons=true&include_all_commits=true" alt="useymur" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=useymur&theme=react&layout=compact" alt="useymur" height="150" /></p>
 
 ## Technology Stack:
 
