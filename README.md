@@ -10,12 +10,12 @@
 - ✅Other Skills: C, C++, C# ( middle level )
 
 <!-- ## 📈 Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=useymur&langs_count=10&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=useymur&langs_count=10&layout=compact) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umudov-seymur&langs_count=10&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=umudov-seymur&langs_count=10&layout=compact) -->
 
 ## 📈 Stats
 
-<p><img align="left" height="150" src="https://github-readme-stats.vercel.app/api?username=useymur&theme=react&show_icons=true&include_all_commits=true" alt="useymur" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=useymur&theme=react&layout=compact" alt="useymur" height="150" /></p>
+<p><img align="left" height="150" src="https://github-readme-stats.vercel.app/api?username=umudov-seymur&theme=react&show_icons=true&include_all_commits=true" alt="umudov-seymur" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umudov-seymur&theme=react&layout=compact" alt="umudov-seymur" height="150" /></p>
 
 ## Technology Stack:
 
