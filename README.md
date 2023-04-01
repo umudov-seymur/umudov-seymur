@@ -31,10 +31,10 @@
 <img align="left" alt="Tailwind" height="35px" src="https://i.imgur.com/lAiNCNE.png" />
 <img align="left" alt="Bootstrap" height="35px" src="https://i.imgur.com/0iJOAWb.png" />
 <img align="left" alt="Git" height="35px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" />
-<br>
-<img align="left" alt="Linux" height="35px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-<img align="left" alt="Digital Ocean" height="35px" src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-ar21.svg" />
-
+<div style="margin-top: 10px">
+  <img align="left" alt="Linux" height="35px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
+  <img align="left" alt="Digital Ocean" height="35px" src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-ar21.svg" />
+</div>
 
 <!--
 **umudov-seymur/umudov-seymur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
