@@ -31,8 +31,9 @@
 <img align="left" alt="Tailwind" height="35px" src="https://i.imgur.com/lAiNCNE.png" />
 <img align="left" alt="Bootstrap" height="35px" src="https://i.imgur.com/0iJOAWb.png" />
 <img align="left" alt="Git" height="35px" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" />
+<br>
 <img align="left" alt="Linux" height="35px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
-<img align="left" alt="Digital Ocean" style="margin-top: 10px;" height="35px" src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-ar21.svg" />
+<img align="left" alt="Digital Ocean" height="35px" src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-ar21.svg" />
 
 
 <!--
