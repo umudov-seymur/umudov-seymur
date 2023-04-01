@@ -4,8 +4,8 @@
 ## 🌈 My major skills are as follows:
 
 - ✅Python script, Web Scraping, Telegram Script, Automation
-- ✅Backend: Python(Django, Flask, FastApi), PHP(OOP, MVC), Laravel, Lumen, Codeigniter
-- ✅Frontend: Bootstrap, Tailwind, Bulma, JavaScript (ES6+), Vue JS, jQuery
+- ✅Backend: Python(Django, Flask, FastApi), .NET CORE 3.1+, PHP(OOP, MVC), Laravel, Lumen, Codeigniter
+- ✅Frontend: Bootstrap, Tailwind, Bulma, JavaScript (ES6+), Vue JS, React, jQuery
 - ✅Database: MySQL, MongoDB, PostgreSQL, Google FireBase
 - ✅Other Skills: C, C++, C# ( middle level )
 
