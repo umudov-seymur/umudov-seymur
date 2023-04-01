@@ -23,6 +23,7 @@
 <img align="left" alt="PHP" height="35px" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" />
 <img align="left" alt="MySQL" height="35px" src="https://i.imgur.com/pnetQ7R.png" />
 <img align="left" alt="JavaScript" height="35px" src="https://i.imgur.com/oanGK70.png" />
+<img align="left" alt="Laravel" height="35px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" />
 <img align="left" alt="Laravel" height="35px" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" />
 <img align="left" alt="Codeigniter" height="35px" src="https://i.imgur.com/GRvKSt2.png" />
 <img align="left" alt="Vue JS" height="35px" src="https://i.imgur.com/qYo61By.png" />
